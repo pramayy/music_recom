@@ -1,4 +1,7 @@
 # music_recom
+|| Please get your own Spotify CLient ID, Secret Client and URL||
+|| If not working, Contact me||
+
 A Music Recommendation system, that uses Computer Vision to Analyze emotions and recommend songs accordingly.
 
 You would require
